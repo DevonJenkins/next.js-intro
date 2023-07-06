@@ -8,3 +8,6 @@ working through the Next.js introductory docs to build a simple react app.
 ## next.js docs
 
 - [JS to React](https://nextjs.org/learn/foundations/from-javascript-to-react)
+
+- [React to Nextjs](https://nextjs.org/learn/foundations/from-react-to-nextjs)
+

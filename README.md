@@ -11,3 +11,5 @@ working through the Next.js introductory docs to build a simple react app.
 
 - [React to Nextjs](https://nextjs.org/learn/foundations/from-react-to-nextjs)
 
+- [How Nextjs works](https://nextjs.org/learn/foundations/how-nextjs-works)
+
